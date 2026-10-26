@@ -32,4 +32,5 @@ int main() {
     std::cout << (check_password(first_name, last_name, password)
                       ? "VALID" : "INVALID") << '\n';
     return 0;
+    //lyt first homework
 }
